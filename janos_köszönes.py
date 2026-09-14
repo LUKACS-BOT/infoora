@@ -4,5 +4,4 @@ name = input("Add meg a neved: ")
 if name.lower() == "jános":
     print("buzi vagy!")
 else:
-    # ha nem jános:
     print(f"szia {name}!")
